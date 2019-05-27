@@ -1,2 +1,2 @@
-# CodeNerve.github.io
-Terminal based portfolio website for CodeNerve
+# imc.github.io
+Terminal based AI website for isaacmao.com
