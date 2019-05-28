@@ -1,9 +1,9 @@
 <span id="a">im@isaacmao.com</span>:<span id="b">~</span><span id="c">$</span> cat Sharism.txt
-<br/><a href="https://www.ynharari.com/topic/happiness/">:)</a> and <a href="http://danariely.com/2014/09/10/the-meaning-of-happiness-changes-over-your-lifetime-2/">:D</a> <br/>
 
 A manifesto? Yes, "<span id="k">Sharism for Universe</span>". <!-- sjkfhskjf -->
 
-What is Sharism? It's all about connections and behaviors between all level of relationship in the universe: physically, biologically, socially, politically, technically, etc.
+<p>What is Sharism?
+<p>It's all about connections and behaviors between all level of relationships in the universe: physically, biologically, socially, politically, technically, etc.
 <p>With connections and active information relaying, there will be different emergence in different system. Eventually the "sharing" behaviors could lead to some phase change which will be totally different from individuals properties.
 <p>So it's related to the long quest of human being on evolution, social formation, intelligence and of course consciousness, etc.
 <p> You can definitely understand Sharism in daily life as well. When you start to share, you feel the effects, more or less.
@@ -13,3 +13,4 @@ What is Sharism? It's all about connections and behaviors between all level of r
 <p>Isaac X. Mao <br>=============</p>
 
 p.s. Where's the history? It's all in <a href="https://web.archive.org/web/20140208143328/http://isaacmao.com/Nothing_lasts_forever,_but_maybe_somethings_do">event horizon</a>.
+<br/><a href="https://www.ynharari.com/topic/happiness/">:)</a> and <a href="http://danariely.com/2014/09/10/the-meaning-of-happiness-changes-over-your-lifetime-2/">:D</a> <br/>
